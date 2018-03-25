@@ -1,0 +1,8 @@
+{
+	"status": "REJECTED",
+	"testDetails": [{
+			"testName": "ntdStatus",
+			"status": "Cancelled"
+		}
+	]
+}

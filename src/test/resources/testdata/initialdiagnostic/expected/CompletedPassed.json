@@ -1,0 +1,9 @@
+{
+	"status": "COMPLETED",
+	"testDetails": [{
+			"testName": "ntdStatus",
+			"status": "Completed",
+			"result": "Passed"
+		}
+	]
+}

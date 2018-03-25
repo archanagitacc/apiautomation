@@ -1,0 +1,66 @@
+{  
+  "transactionId":"DynamicTransaction",
+   "tokenId":"e1c5334b597c123b",
+   "testReferenceId":"WRI000000000000",
+   "status":"Completed",
+   "result":"Failed",
+   "outcome":{  
+     "resolutionCode":"RO#2",
+      "resolutionOutcome":" APPOINTMENT",
+      "resolutionStatus":"FAILED",
+      "resolutionDescription":"NTD Status FAILED, PON Admin status is UNLOCKED and PON Operational status is UP.Appointment Recommended."
+   },
+   "metadata":{  
+     "correlationId":"DYNAMIC_CORRELATION_ID",
+      "tokenId":"e1c5334b597c123b",
+      "faultType":"Red Optical",
+      "role":"NBN",
+      "channel":"Remedy",
+      "serviceId":"AVC000000000000",
+      "messagePriority":"High",
+      "consumerPriority":"Medium",
+      "requestorId":"ASI000000000000"
+   },
+   "diagnosticDetails":[  
+     {  
+        "type":"NTD Status",
+         "status":"Completed",
+         "result":"Failed",
+         "serviceProfile":"D25_U5_Mbps_TC4_P",
+         "ntdPosition":"SWOLT60000071DV.R1.S1.LT10.PON5.ONT1",
+         "ntdOperationalState":"UP",
+         "ntdAdminState":"UNLOCKED",
+         "ntdId":"NTD000012290211",
+         "ntdRanged":"YES",
+         "ntdSerialNumber":"ALCLF8A463F7",
+         "ntdSerialNumberNetwork":"ALCLF8A463F4",
+         "ntdActiveSoftwareVersion":"3FE54613AOCJ49",
+         "ntdPassiveSoftwareVersion":"3FE53978AOCH22",
+         "ntdPlanndedSoftware":"AUTO",
+         "ntdEstimatedDistance":"0.1 Km",
+         "ntdOlmRx1490":"-26.568 dBm",
+         "ntdOlmTx1490":"3.400 dBm",
+         "ntdOlmRx1310":"-26.200 dBm",
+         "ntdOlmTx1310":"3.000 dBm",
+         "ntdDownloadStatus":"Unknown",
+         "inniCVlan":"153",
+         "inniSVlan":"2001",
+         "enniCVlan":"152",
+         "enniSVlan":"1032",
+         "lagVlanId":"101",
+         "ntdLastChangeDate":"2016-10-18T09:34:04Z",
+         "ntdCurrentReportingState":"No Defect",
+         "bbuAvailability":"Yes",
+         "batteryFailingStatus":"Unknown",
+         "batteryMissingStatus":"Unknown"
+      },
+      {  
+        "type":"PON Status",
+         "status":"Completed",
+         "result":"Passed",
+         "ponOperationalStatus":"UP",
+         "ponAdminStatus":"UP",
+         "oltRackShelfSlotPort":"SWOLT60000071DV:1-1-10-5"
+      }
+   ]
+}

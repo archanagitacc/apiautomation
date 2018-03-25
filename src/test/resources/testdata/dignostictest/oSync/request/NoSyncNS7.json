@@ -1,0 +1,15 @@
+{  
+  "msgType":"No Sync",
+   "version":"v1",
+   "data":{  
+     "correlationId":"DynamicCorrelation",
+      "tokenId":"e1c5334b597c123b",
+      "requestorId":"ASI000000000035",
+      "serviceId":"AVC000007668020",
+      "role":"NBN",
+      "faultType":"No Sync",
+      "channel":"Remedy",
+      "messagePriority":"High",
+      "consumerPriority":"Medium"
+   }
+}

@@ -1,0 +1,1 @@
+{"correlationId":"2e8cedd0-ad99-11e6-bf3e-45044ada7c82","accessSeekerID":"ASI000000220777","msgType":"initialDiagnostic","data":{"avcId":"AVC600022276270", "problemSymptoms":"No Connection","ntd":{ "opticalStatus":"Red","opticalBehaviour":"Flashing","powerStatus":"Green","powerBehaviour":"Solid","internetStatus":"Red","internetBehaviour":"Flashing"}}}

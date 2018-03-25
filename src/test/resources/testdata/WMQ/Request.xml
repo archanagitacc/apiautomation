@@ -1,0 +1,31 @@
+<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"no\"?><!--   @operation cancelWorkhello   @action None   @sender NBN Co   @receiver NBN Co   @scenario Cancel Work Ticket Success   @name Normal - Update Work Ticket   @description This is a sample request message for a Cancel Work Ticket request.  -->
+<soapenv:Envelope
+        xmlns:soapenv=\"http://schemas.xmlsoap.org/soap/envelope/\" xmlns:ase=\"http://www.nbnco.com.au/cim/common/accessSeeker/v3\" xmlns:bin=\"http://www.nbnco.com.au/cim/common/businessInteraction/v5\" xmlns:dns=\"http://www.nbnco.com.au/cim/manageTicketOfWork/v5\" xmlns:exp=\"http://www.nbnco.com.au/cim/common/exception/v3\" xmlns:mhe=\"http://www.nbnco.com.au/cim/common/messageHeader/v3\" xmlns:msg=\"http://www.nbnco.com.au/cim/common/message/v5\" xmlns:pfm=\"http://www.nbnco.com.au/cim/common/performance/v5\" xmlns:pla=\"http://www.nbnco.com.au/cim/common/place/v5\" xmlns:prd=\"http://www.nbnco.com.au/cim/common/product/v4\" xmlns:pty=\"http://www.nbnco.com.au/cim/common/party/v5\" xmlns:rbe=\"http://www.nbnco.com.au/cim/common/rootBusinessEntity/v3\" xmlns:res=\"http://www.nbnco.com.au/cim/common/resource/v5\" xmlns:srv=\"http://www.nbnco.com.au/cim/common/service/v5\" xmlns:tme=\"http://www.nbnco.com.au/cim/common/time/v5\" xmlns:wrk=\"http://www.nbnco.com.au/cim/common/workforce/v5\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\">   <soapenv:Header>
+<mhe:MessageHeader>
+    <activityName>cancelWorkTicket</activityName>
+    <msgName>ManageTicketOfWorkcancelWorkTicketRequest</msgName>
+    <businessServiceName>ManageTicketOfWork</businessServiceName>
+    <businessServiceVersion>V1.0</businessServiceVersion>
+    <msgType>Request</msgType>
+    <accessSeekerID>ASI000000000019</accessSeekerID>
+    <correlationId>da6e5717-0b1e-4777-bf1d-b2084b53230e</correlationId>
+    <security>Placeholder Security</security>
+    <priority>4</priority>
+    <communicationPattern>RequestReply</communicationPattern>
+    <timestamp>2012-08-23T12:00:00Z</timestamp>
+    <businessChannel>Fulfilment</businessChannel>
+    <HeaderCharacteristicValue>
+        <value>FALSE</value>
+        <Characteristic>
+            <name>Mocked</name>
+        </Characteristic>
+    </HeaderCharacteristicValue>
+</mhe:MessageHeader>
+</soapenv:Header>   <soapenv:Body>
+<dns:ManageTicketOfWorkRequest>
+    <WorkOrder>      <!-- Work Order ID to be cancelled -->
+        <ID>WRQ199999999999</ID>      <!-- Work Order Status Reason -->
+        <interactionStatusReason>ORDER-CAN</interactionStatusReason>
+    </WorkOrder>
+</dns:ManageTicketOfWorkRequest>
+</soapenv:Body>  </soapenv:Envelope>

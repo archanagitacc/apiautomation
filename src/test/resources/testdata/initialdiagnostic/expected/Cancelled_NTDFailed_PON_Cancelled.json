@@ -1,0 +1,11 @@
+{
+	"status": "REJECTED",
+	"testDetails": [{
+			"testName": "ntdStatus"
+		},
+		{
+			"testName": "ponStatus",
+			"status": "Cancelled"
+		}
+	]
+}

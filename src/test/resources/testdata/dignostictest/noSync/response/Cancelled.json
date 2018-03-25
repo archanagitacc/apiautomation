@@ -1,0 +1,30 @@
+{
+  "nbnCorrelationId": "3b82aed9be642b3b",
+  "wfModule": "No_Sync",
+  "diagnosticsData": {
+    "channelId": "Remedy",
+    "msgType": "completedNotification",
+    "role": "NBN",
+    "subscriberId": "AVC600022276270",
+    "requestorId": "ASI000000220777",
+    "requestId": "000000000058027",
+    "incidentId": "INC000005801632",
+    "timeStamp": "2017-06-28T05:19:49.782Z",
+    "techType": "NFAS",
+    "workflowDetails": [
+      {
+        "name": "No_Sync",
+        "workflowTestRefId": "WRI900000693650",
+        "status": "Cancelled",
+        "startDate": "2017-07-28T00:49:15.699Z",
+        "endDate": "2017-07-28T00:49:21.122Z",
+        "exceptions": [
+          {
+            "errorMessage": "An unknown exception occurred during the workflow execution",
+            "errorCode": "000000"
+ }
+        ]
+      }
+    ]
+  }
+}

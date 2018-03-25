@@ -1,0 +1,51 @@
+{  
+   "transactionId":"DynamicTransaction",
+   "tokenId":"e1c5334b597c123b",
+   "testReferenceId":"WRI000000000000",
+   "status":"InProgress",
+   "metadata":{  
+      "correlationId":"DYNAMIC_CORRELATION_ID",
+      "tokenId":"e1c5334b597c123b",
+      "faultType":"Red Optical",
+      "role":"NBN",
+      "channel":"Remedy",
+      "serviceId":"AVC000000000000",
+      "messagePriority":"High",
+      "consumerPriority":"Medium",
+      "requestorId":"ASI000000000000"
+   },
+   "diagnosticDetails":[  
+      {  
+         "type":"NTD Status",
+         "status":"Completed",
+         "result":"Passed",
+         "serviceProfile":"D25_U5_Mbps_TC4_P",
+         "ntdPosition":"SWOLT0000564.R1.S1.LT4.PON8.ONT7",
+         "ntdOperationalState":"UP",
+         "ntdAdminState":"UNLOCKED",
+         "ntdId":"NTD000012290211",
+         "ntdRanged":"YES",
+         "ntdSerialNumber":"ALCLF8944F65",
+         "ntdSerialNumberNetwork":"ALCLF8944F65",
+         "ntdActiveSoftwareVersion":"3FE54613AOCJ49",
+         "ntdPassiveSoftwareVersion":"3FE54613AOCJ46",
+         "ntdPlanndedSoftware":"AUTO",
+         "ntdEstimatedDistance":"5.1000000000000005 Km",
+         "ntdOlmRx1490":"-15.190 dBm",
+         "ntdOlmTx1490":"3.600 dBm",
+         "ntdOlmRx1310":"-18.000 dBm",
+         "ntdOlmTx1310":"3.000 dBm",
+         "ntdDownloadStatus":"Unknown",
+         "inniCVlan":"153",
+         "inniSVlan":"2001",
+         "enniCVlan":"152",
+         "enniSVlan":"1032",
+         "lagVlanId":"101",
+         "ntdLastChangeDate":"2016-06-21T15:23:36Z",
+         "ntdCurrentReportingState":"No Defect",
+         "bbuAvailability":"Yes",
+         "batteryFailingStatus":"Unknown",
+         "batteryMissingStatus":"Unknown"
+      }
+   ]
+}

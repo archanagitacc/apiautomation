@@ -1,0 +1,51 @@
+{
+  "token": "1234567890",
+  "nbnCorrelationId": "DYNAMIC_CORRELATION_ID",
+  "data": {
+    "transactionId": "DynamicTransaction",
+    "testReferenceId": "WRI900000222143",
+    "status": "Completed",
+    "result": "Failed",
+    "startDateTime": "DynamicStartTime",
+    "endDateTime": "DynamicEndTime",
+    "metadata": {
+      "nbnCorrelationId": "DYNAMIC_CORRELATION_ID",
+      "requestorId": "WID000000000058",
+      "serviceId": "DynamicServiceId",
+      "tokenId": "1234567890"
+    },
+    "diagnosticDetails": [
+      {
+        "type": "DPU Port Status",
+        "status": "Completed",
+        "result": "Failed",
+        "serviceProfile": "D12_U1_Mbps_TC4_P,D0.15_U0.15_Mbps_TC1_C",
+        "dpuLogicalId": "DPU015803301007",
+        "dpuPortNumber": "1",
+        "ethernetPortOperationalState": "UP",
+        "macAddressEndUserGateway": "78:A0:51:5E:E4:DC",
+        "reversePowerState": "Powered",
+        "xdslSyncState": "In Sync",
+        "accessLineRate": "25/5",
+        "exceptions": [
+          {
+            "code": "300",
+            "message": "DPU Port Status Test fails"
+          },
+          {
+            "code": "000",
+            "message": "Some other error message"
+          }
+        ]
+      },
+      {
+        "type": "Loopback",
+        "status": "Accepted"
+      },
+      {
+        "type": "NPT",
+        "status": "Accepted"
+      }
+    ]
+  }
+}

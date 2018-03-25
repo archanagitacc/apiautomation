@@ -1,0 +1,23 @@
+{  
+   "transactionId":"DynamicTransaction",
+   "tokenId":"e1c5334b597c123b",
+   "testReferenceId":"WRI000000000000",
+   "status":"InProgress",
+   "metadata":{  
+      "correlationId":"DYNAMIC_CORRELATION_ID",
+      "tokenId":"e1c5334b597c123b",
+      "faultType":"Red Optical",
+      "role":"NBN",
+      "channel":"Remedy",
+      "serviceId":"AVC000000000000",
+      "messagePriority":"High",
+      "consumerPriority":"Medium",
+      "requestorId":"ASI000000000000"
+   },
+   "diagnosticDetails":[  
+      {  
+         "type":"NTD Status",
+         "status":"InProgress"
+      }
+   ]
+}

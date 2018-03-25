@@ -1,0 +1,7 @@
+{
+  "Broker1":{
+    "username": "",
+    "password": "",
+    "url": "tcp://10.11.35.85:61616"
+  }
+}

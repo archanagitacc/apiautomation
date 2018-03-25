@@ -1,0 +1,34 @@
+{
+  "token": "1234567890",
+  "nbnCorrelationId": "DYNAMIC_CORRELATION_ID",
+  "data": {
+    "transactionId": "DynamicTransaction",
+    "estimatedResponseTime": "60",
+    "testReferenceId": "WRI900000222143",
+    "status": "InProgress",
+    "startDateTime": "DynamicStartTime",
+    "metadata": {
+      "nbnCorrelationId": "DYNAMIC_CORRELATION_ID",
+      "requestorId": "WID000000000058",
+      "serviceId": "DynamicServiceId",
+      "tokenId": "1234567890"
+    },
+    "diagnosticDetails": [
+      {
+        "type": "DPU Port Status",
+        "status": "InProgress",
+        "estimatedResponseTime": "60"
+      },
+      {
+        "type": "Loopback",
+        "status": "Accepted",
+        "estimatedResponseTime": "60"
+      },
+      {
+        "type": "NPT",
+        "status": "Accepted",
+        "estimatedResponseTime": "60"
+      }
+    ]
+  }
+}

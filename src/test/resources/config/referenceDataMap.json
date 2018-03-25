@@ -1,0 +1,250 @@
+{
+  "QS1":{
+    "0": "/src/test/resources/testdata/dignostictest/redoptical/response/RedOpticalNotificationAccepted.json",
+    "1": "/src/test/resources/testdata/dignostictest/redoptical/response/RedOpticalNotificationOverallInprogress.json",
+    "2": "/src/test/resources/testdata/dignostictest/redoptical/response/RedOpticalNotificationNTDInprogress.json",
+    "3": "/src/test/resources/testdata/dignostictest/redoptical/response/RedOpticalNotificationOverallInprogressNTDCompletedPassed.json",
+    "4": "/src/test/resources/testdata/dignostictest/redoptical/response/RedOpticalNotifcationOverallCompletedPassed.json"
+  },
+  "QS2":{
+    "Notification": 5
+  },
+  "QS3":{
+    "Notification": 5
+  },
+  "QS4":{
+    "Notification": 5
+  },
+  "QS5":{
+    "Notification": 5
+  },
+  "QS6":{
+    "Notification": 5
+  },
+  "QS7":{
+    "Notification": 5
+  },
+  "QS8":{
+    "Notification": 5
+  },
+  "QS9":{
+    "Notification": 5
+  },
+  "QS10":{
+    "Notification": 5
+  },
+  "NS1":{
+    "Notification": 5
+  },
+  "NS2":{
+    "Notification": 5
+  },
+  "NS3":{
+    "Notification": 5
+  },
+  "NS4":{
+    "Notification": 5
+  },
+  "NS5":{
+    "Notification": 5
+  },
+  "NS6":{
+    "Notification": 5
+  },
+  "NS7":{
+    "Notification": 5
+  },
+  "NS8":{
+    "Notification": 5
+  },
+  "RO4":{
+    "0": "/src/test/resources/testdata/dignostictest/redoptical/response/RedOpticalNotificationAccepted.json",
+    "1": "/src/test/resources/testdata/dignostictest/redoptical/response/RedOpticalNotificationOverallInprogress.json",
+    "2": "/src/test/resources/testdata/dignostictest/redoptical/response/RedOpticalNotificationNTDInprogress.json",
+    "3": "/src/test/resources/testdata/dignostictest/redoptical/response/RedOpticalNotificationOverallInprogressNTDCompletedPassed.json",
+    "4": "/src/test/resources/testdata/dignostictest/redoptical/response/RedOpticalNotifcationOverallCompletedPassed.json"
+  },
+  "RO3":{
+    "0": "/src/test/resources/testdata/dignostictest/redoptical/response/RedOpticalNotificationAccepted.json",
+    "1": "/src/test/resources/testdata/dignostictest/redoptical/response/RedOpticalNotificationOverallInprogress.json",
+    "2": "/src/test/resources/testdata/dignostictest/redoptical/response/RedOpticalNotificationNTDInprogress.json",
+    "3": "/src/test/resources/testdata/dignostictest/redoptical/response/RedOpticalNotificationNTDCompletedFail.json",
+    "4": "/src/test/resources/testdata/dignostictest/redoptical/response/RedOpticalNotificationPONInprogress.json",
+    "5": "/src/test/resources/testdata/dignostictest/redoptical/response/RedOpticalNotifcationPONFailedAdminUpOpDown.json",
+    "6": "/src/test/resources/testdata/dignostictest/redoptical/response/RedOpticalNotificationCompletedFail#RO3.json"
+  },
+  "RO2":{
+    "0": "/src/test/resources/testdata/dignostictest/redoptical/response/RedOpticalNotificationAccepted.json",
+    "1": "/src/test/resources/testdata/dignostictest/redoptical/response/RedOpticalNotificationOverallInprogress.json",
+    "2": "/src/test/resources/testdata/dignostictest/redoptical/response/RedOpticalNotificationNTDInprogress.json",
+    "3": "/src/test/resources/testdata/dignostictest/redoptical/response/RedOpticalNotificationNTDFailRO2.json",
+    "4": "/src/test/resources/testdata/dignostictest/redoptical/response/RedOpticalNotificationPONInprogress.json",
+    "5": "/src/test/resources/testdata/dignostictest/redoptical/response/RedOpticalNotificationPONFailedAdminDown.json",
+    "6": "/src/test/resources/testdata/dignostictest/redoptical/response/RedOpticalNotificationCompletedFail#RO2.json"
+  },
+  "RO1":{
+    "0": "/src/test/resources/testdata/dignostictest/redoptical/response/RedOpticalNotificationAccepted.json",
+    "1": "/src/test/resources/testdata/dignostictest/redoptical/response/RedOpticalNotificationOverallInprogress.json",
+    "2": "/src/test/resources/testdata/dignostictest/redoptical/response/RedOpticalNotificationNTDInprogress.json",
+    "3": "/src/test/resources/testdata/dignostictest/redoptical/response/RedOpticalNotificationNTDCompletedFailRO1.json",
+    "4": "/src/test/resources/testdata/dignostictest/redoptical/response/RedOpticalNotificationPONInprogress.json",
+    "5": "/src/test/resources/testdata/dignostictest/redoptical/response/RedOpticalNotificationPONFailedAdminDown.json",
+    "6": "/src/test/resources/testdata/dignostictest/redoptical/response/RedOpticalNotifcationCompletedFail#RO1.json"
+  },
+  "CANCELLED":{
+    "0": "/src/test/resources/testdata/dignostictest/redoptical/response/RedOpticalNotificationAccepted.json",
+    "1": "/src/test/resources/testdata/dignostictest/redoptical/response/RedOpticalNotificationOverallInprogress.json",
+    "2": "/src/test/resources/testdata/dignostictest/redoptical/response/RedOpticalNotificationNTDInprogress.json",
+    "3": "/src/test/resources/testdata/dignostictest/redoptical/response/RedOpticalNotifcationNTDCancelled.json",
+    "4": "/src/test/resources/testdata/dignostictest/redoptical/response/RedOpticalNotifcationCancelled.json"
+  },
+  "loopback_completed":{
+    "0": "/src/test/resources/testdata/loopback/response/loopback_accepted.json",
+    "1": "/src/test/resources/testdata/loopback/response/loopback_inprogress.json",
+    "2": "/src/test/resources/testdata/loopback/response/loopback_completed.json"
+  },
+  "loopback_cancelled":{
+    "0": "/src/test/resources/testdata/loopback/response/loopback_accepted.json",
+    "1": "/src/test/resources/testdata/loopback/response/loopback_inprogress.json",
+    "2": "/src/test/resources/testdata/loopback/response/loopback_completed_cancelled.json"
+  },
+  "loopback_failed":{
+    "0": "/src/test/resources/testdata/loopback/response/loopback_accepted.json",
+    "1": "/src/test/resources/testdata/loopback/response/loopback_inprogress.json",
+    "2": "/src/test/resources/testdata/loopback/response/loopback_completed_failed.json"
+  },
+  "loopback_rejected":{
+    "0": "/src/test/resources/testdata/loopback/response/loopback_rejected.json"
+  },
+  "dpustatus_completed":{
+    "0": "/src/test/resources/testdata/dpustatus/response/dpustatus_accepted.json",
+    "1": "/src/test/resources/testdata/dpustatus/response/dpustatus_inprogress.json",
+    "2": "/src/test/resources/testdata/dpustatus/response/dpustatus_completed.json"
+  },
+  "dpustatus_failed":{
+    "0": "/src/test/resources/testdata/dpustatus/response/dpustatus_accepted.json",
+    "1": "/src/test/resources/testdata/dpustatus/response/dpustatus_inprogress.json",
+    "2": "/src/test/resources/testdata/dpustatus/response/dpustatus_completed_failed.json"
+  },
+  "dpustatus_cancelled":{
+    "0": "/src/test/resources/testdata/dpustatus/response/dpustatus_accepted.json",
+    "1": "/src/test/resources/testdata/dpustatus/response/dpustatus_inprogress.json",
+    "2": "/src/test/resources/testdata/dpustatus/response/dpustatus_completed_cancelled.json"
+  },
+  "dpustatus_rejected":{
+    "0": "/src/test/resources/testdata/dpustatus/response/dpustatus_rejected.json"
+  },
+  "dpuportstatus_completed":{
+    "0": "/src/test/resources/testdata/dpuportstatus/response/dpuportstatus_accepted.json",
+    "1": "/src/test/resources/testdata/dpuportstatus/response/dpuportstatus_inprogress.json",
+    "2": "/src/test/resources/testdata/dpuportstatus/response/dpuportstatus_completed.json"
+  },
+  "dpuportstatus_failed":{
+    "0": "/src/test/resources/testdata/dpuportstatus/response/dpuportstatus_accepted.json",
+    "1": "/src/test/resources/testdata/dpuportstatus/response/dpuportstatus_inprogress.json",
+    "2": "/src/test/resources/testdata/dpuportstatus/response/dpuportstatus_completed_failed.json"
+  },
+  "dpuportstatus_cancelled":{
+    "0": "/src/test/resources/testdata/dpuportstatus/response/dpuportstatus_accepted.json",
+    "1": "/src/test/resources/testdata/dpuportstatus/response/dpuportstatus_inprogress.json",
+    "2": "/src/test/resources/testdata/dpuportstatus/response/dpuportstatus_completed_cancelled.json"
+  },
+  "dpuportstatus_rejected":{
+    "0": "/src/test/resources/testdata/dpuportstatus/response/dpuportstatus_rejected.json"
+  },
+  "fttcassurancediagnostictest_completed_happy":{
+    "0": "/src/test/resources/testdata/fttcassurancediagnostictest/fttcassurancediagnostictest_completed_happy/01_diagnosticResults_accepted.json",
+    "1": "/src/test/resources/testdata/fttcassurancediagnostictest/fttcassurancediagnostictest_completed_happy/02_diagnosticResults_dpuportstatusinprogress_inprogress.json",
+    "2": "/src/test/resources/testdata/fttcassurancediagnostictest/fttcassurancediagnostictest_completed_happy/03_diagnosticResults_dpuportstatuscompleted_passed.json",
+    "3": "/src/test/resources/testdata/fttcassurancediagnostictest/fttcassurancediagnostictest_completed_happy/04_diagnosticResults_loopbackinprogress_inprogress.json",
+    "4": "/src/test/resources/testdata/fttcassurancediagnostictest/fttcassurancediagnostictest_completed_happy/05_diagnosticResults_loopbackcompleted_passed.json",
+    "5": "/src/test/resources/testdata/fttcassurancediagnostictest/fttcassurancediagnostictest_completed_happy/06_diagnosticResults_performancetestinprogress_inprogress.json",
+    "6": "/src/test/resources/testdata/fttcassurancediagnostictest/fttcassurancediagnostictest_completed_happy/07_diagnosticResults_performancetestcompleted_passed.json",
+    "7": "/src/test/resources/testdata/fttcassurancediagnostictest/fttcassurancediagnostictest_completed_happy/08_diagnosticResults_completed_event.json"
+  },
+  "fttcassurancediagnostictest_rejected":{
+    "0": "/src/test/resources/testdata/fttcassurancediagnostictest/fttcassurancediagnostictest_rejected/01a_diagnosticResults_rejected.json"
+  },
+  "fttcassurancediagnostictest_dpustatus_failed":{
+    "0": "/src/test/resources/testdata/fttcassurancediagnostictest/fttcassurancediagnostictest_completed_dpustatusfailed/01_diagnosticResults_accepted.json",
+    "1": "/src/test/resources/testdata/fttcassurancediagnostictest/fttcassurancediagnostictest_completed_dpustatusfailed/02_diagnosticResults_dpuportstatusinprogress_inprogress.json",
+    "2": "/src/test/resources/testdata/fttcassurancediagnostictest/fttcassurancediagnostictest_completed_dpustatusfailed/03a_diagnosticResults_dpuportstatusfailed_inprogress.json",
+    "3": "/src/test/resources/testdata/fttcassurancediagnostictest/fttcassurancediagnostictest_completed_dpustatusfailed/03b_diagnosticResults_dpuportstatusfailed_completed.json"
+  },
+  "fttcassurancediagnostictest_loopback_failed":{
+    "0": "/src/test/resources/testdata/fttcassurancediagnostictest/fttcassurancediagnostictest_completed_loopbackfailed/01_diagnosticResults_accepted.json",
+    "1": "/src/test/resources/testdata/fttcassurancediagnostictest/fttcassurancediagnostictest_completed_loopbackfailed/02_diagnosticResults_dpuportstatusinprogress_inprogress.json",
+    "2": "/src/test/resources/testdata/fttcassurancediagnostictest/fttcassurancediagnostictest_completed_loopbackfailed/03_diagnosticResults_dpuportstatuscompleted_passed.json",
+    "3": "/src/test/resources/testdata/fttcassurancediagnostictest/fttcassurancediagnostictest_completed_loopbackfailed/04_diagnosticResults_loopbackinprogress_inprogress.json",
+    "4": "/src/test/resources/testdata/fttcassurancediagnostictest/fttcassurancediagnostictest_completed_loopbackfailed/05a_diagnosticResults_loopbackfailed_inprogress.json",
+    "5": "/src/test/resources/testdata/fttcassurancediagnostictest/fttcassurancediagnostictest_completed_loopbackfailed/05b_diagnosticResults_loopbackfailed_completed.json"
+  },
+  "fttcassurancediagnostictest_performance_failed":{
+    "0": "/src/test/resources/testdata/fttcassurancediagnostictest/fttcassurancediagnostictest_completed_performancefailed/01_diagnosticResults_accepted.json",
+    "1": "/src/test/resources/testdata/fttcassurancediagnostictest/fttcassurancediagnostictest_completed_performancefailed/02_diagnosticResults_dpuportstatusinprogress_inprogress.json",
+    "2": "/src/test/resources/testdata/fttcassurancediagnostictest/fttcassurancediagnostictest_completed_performancefailed/03_diagnosticResults_dpuportstatuscompleted_passed.json",
+    "3": "/src/test/resources/testdata/fttcassurancediagnostictest/fttcassurancediagnostictest_completed_performancefailed/04_diagnosticResults_loopbackinprogress_inprogress.json",
+    "4": "/src/test/resources/testdata/fttcassurancediagnostictest/fttcassurancediagnostictest_completed_performancefailed/05_diagnosticResults_loopbackcompleted_passed.json",
+    "5": "/src/test/resources/testdata/fttcassurancediagnostictest/fttcassurancediagnostictest_completed_performancefailed/06_diagnosticResults_performancetestinprogress_inprogress.json",
+    "6": "/src/test/resources/testdata/fttcassurancediagnostictest/fttcassurancediagnostictest_completed_performancefailed/07a_diagnosticResults_performancetestfailed_inprogress.json",
+    "7": "/src/test/resources/testdata/fttcassurancediagnostictest/fttcassurancediagnostictest_completed_performancefailed/07b_diagnosticResults_performancetestfailed_completed.json"
+  },
+  "fttcassurancediagnostictest_dpustatus_cancelled":{
+    "0": "/src/test/resources/testdata/fttcassurancediagnostictest/fttcassurancediagnostictest_cancelled_dpustatus/01_diagnosticResults_accepted.json",
+    "1": "/src/test/resources/testdata/fttcassurancediagnostictest/fttcassurancediagnostictest_cancelled_dpustatus/02_diagnosticResults_dpuportstatusinprogress_inprogress.json",
+    "2": "/src/test/resources/testdata/fttcassurancediagnostictest/fttcassurancediagnostictest_cancelled_dpustatus/03a_diagnosticResults_dpuportstatuscancelled_inprogress.json",
+    "3": "/src/test/resources/testdata/fttcassurancediagnostictest/fttcassurancediagnostictest_cancelled_dpustatus/03b_diagnosticResults_dpuportstatuscancelled_completed.json"
+  },
+  "fttcassurancediagnostictest_loopback_cancelled":{
+    "0": "/src/test/resources/testdata/fttcassurancediagnostictest/fttcassurancediagnostictest_cancelled_loopback/01_diagnosticResults_accepted.json",
+    "1": "/src/test/resources/testdata/fttcassurancediagnostictest/fttcassurancediagnostictest_cancelled_loopback/02_diagnosticResults_dpuportstatusinprogress_inprogress.json",
+    "2": "/src/test/resources/testdata/fttcassurancediagnostictest/fttcassurancediagnostictest_cancelled_loopback/03_diagnosticResults_dpuportstatuscompleted_passed.json",
+    "3": "/src/test/resources/testdata/fttcassurancediagnostictest/fttcassurancediagnostictest_cancelled_loopback/04_diagnosticResults_loopbackinprogress_inprogress.json",
+    "4": "/src/test/resources/testdata/fttcassurancediagnostictest/fttcassurancediagnostictest_cancelled_loopback/05a_diagnosticResults_loopbackcancelled_inprogress.json",
+    "5": "/src/test/resources/testdata/fttcassurancediagnostictest/fttcassurancediagnostictest_cancelled_loopback/05b_diagnosticResults_loopbackcancelled_completed.json"
+  },
+  "fttcassurancediagnostictest_performance_cancelled":{
+    "0": "/src/test/resources/testdata/fttcassurancediagnostictest/fttcassurancediagnostictest_cancelled_performance/01_diagnosticResults_accepted.json",
+    "1": "/src/test/resources/testdata/fttcassurancediagnostictest/fttcassurancediagnostictest_cancelled_performance/02_diagnosticResults_dpuportstatusinprogress_inprogress.json",
+    "2": "/src/test/resources/testdata/fttcassurancediagnostictest/fttcassurancediagnostictest_cancelled_performance/03_diagnosticResults_dpuportstatuscompleted_passed.json",
+    "3": "/src/test/resources/testdata/fttcassurancediagnostictest/fttcassurancediagnostictest_cancelled_performance/04_diagnosticResults_loopbackinprogress_inprogress.json",
+    "4": "/src/test/resources/testdata/fttcassurancediagnostictest/fttcassurancediagnostictest_cancelled_performance/05_diagnosticResults_loopbackcompleted_passed.json",
+    "5": "/src/test/resources/testdata/fttcassurancediagnostictest/fttcassurancediagnostictest_cancelled_performance/06_diagnosticResults_performancetestinprogress_inprogress.json",
+    "6": "/src/test/resources/testdata/fttcassurancediagnostictest/fttcassurancediagnostictest_cancelled_performance/07a_diagnosticResults_performancetestcancelled_inprogress.json",
+    "7": "/src/test/resources/testdata/fttcassurancediagnostictest/fttcassurancediagnostictest_cancelled_performance/07b_diagnosticResults_performancetestcancelled_completed.json"
+  },
+  "dpuportreset_completed_happy":{
+    "0": "/src/test/resources/testdata/dpuportreset/dpuportreset_completed_happy/01_diagnosticResults_accepted.json",
+    "1": "/src/test/resources/testdata/dpuportreset/dpuportreset_completed_happy/02_diagnosticResults_inProgress.json",
+    "2": "/src/test/resources/testdata/dpuportreset/dpuportreset_completed_happy/03_diagnosticResults_completed_passed.json"
+  },
+  "dpuportreset_completed_failed":{
+    "0": "/src/test/resources/testdata/dpuportreset/dpuportreset_completed_happy/01_diagnosticResults_accepted.json",
+    "1": "/src/test/resources/testdata/dpuportreset/dpuportreset_completed_happy/02_diagnosticResults_inProgress.json",
+    "2": "/src/test/resources/testdata/dpuportreset/dpuportreset_completed_failed/03_diagnosticResults_completed_failed.json"
+  },
+  "dpuportreset_rejected":{
+    "0": "/src/test/resources/testdata/dpuportreset/dpuportreset_rejected/01_diagnosticResults_rejected.json"
+  },
+  "fttcactivationsdiagnostictest_completed_happy":{
+    "0": "/src/test/resources/testdata/fttcactivationsdiagnostictest/fttcactivationsdiagnostictest_completed_happy/01_diagnosticResults_accepted.json",
+    "1": "/src/test/resources/testdata/fttcactivationsdiagnostictest/fttcactivationsdiagnostictest_completed_happy/02_diagnosticResults_dpuportstatusinprogress_inprogress.json",
+    "2": "/src/test/resources/testdata/fttcactivationsdiagnostictest/fttcactivationsdiagnostictest_completed_happy/03_diagnosticResults_dpuportstatuscompleted_passed.json",
+    "3": "/src/test/resources/testdata/fttcactivationsdiagnostictest/fttcactivationsdiagnostictest_completed_happy/04_diagnosticResults_completed_event.json"
+  },
+  "fttcactivationsdiagnostictest_rejected":{
+    "0": "/src/test/resources/testdata/fttcactivationsdiagnostictest/fttcactivationsdiagnostictest_rejected/01a_diagnosticResults_rejected.json"
+  },
+  "fttcactivationsdiagnostictest_dpustatus_failed":{
+    "0": "/src/test/resources/testdata/fttcactivationsdiagnostictest/fttcactivationsdiagnostictest_completed_dpustatusfailed/01_diagnosticResults_accepted.json",
+    "1": "/src/test/resources/testdata/fttcactivationsdiagnostictest/fttcactivationsdiagnostictest_completed_dpustatusfailed/02_diagnosticResults_dpuportstatusinprogress_inprogress.json",
+    "2": "/src/test/resources/testdata/fttcactivationsdiagnostictest/fttcactivationsdiagnostictest_completed_dpustatusfailed/03a_diagnosticResults_dpuportstatusfailed_inprogress.json",
+    "3": "/src/test/resources/testdata/fttcactivationsdiagnostictest/fttcactivationsdiagnostictest_completed_dpustatusfailed/03b_diagnosticResults_dpuportstatusfailed_completed.json"
+  },
+  "fttcactivationsdiagnostictest_dpustatus_cancelled":{
+    "0": "/src/test/resources/testdata/fttcactivationsdiagnostictest/fttcactivationsdiagnostictest_cancelled_dpustatus/01_diagnosticResults_accepted.json",
+    "1": "/src/test/resources/testdata/fttcactivationsdiagnostictest/fttcactivationsdiagnostictest_cancelled_dpustatus/02_diagnosticResults_dpuportstatusinprogress_inprogress.json",
+    "2": "/src/test/resources/testdata/fttcactivationsdiagnostictest/fttcactivationsdiagnostictest_cancelled_dpustatus/03a_diagnosticResults_dpuportstatuscancelled_inprogress.json",
+    "3": "/src/test/resources/testdata/fttcactivationsdiagnostictest/fttcactivationsdiagnostictest_cancelled_dpustatus/03b_diagnosticResults_dpuportstatuscancelled_completed.json"
+  }
+}

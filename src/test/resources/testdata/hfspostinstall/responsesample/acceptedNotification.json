@@ -1,0 +1,26 @@
+{  
+   "correlationId":"DYNAMIC_CORRELATION_ID",
+   "estimatedResponseTime":"4",
+   "status":"Accepted",
+   "msgType":"Post Install Test",
+   "testReferenceId":"WRI000000000000",
+   "startDateTime":"DynamicStartTime",
+   "metadata":{  
+      "role":"Delivery Partner",
+      "channel":"Atlas",
+      "serviceId":"AVC000000000000",
+      "messagePriority":"High",
+      "consumerPriority":"Medium",
+      "requestorId":"ASI000000000000"
+   },
+   "diagnosticDetails":[  
+      {  
+         "type":"NTD Status",
+         "status":"Accepted"
+      },
+      {  
+         "type":"Loopback Test",
+         "status":"Accepted"
+      }
+   ]
+}

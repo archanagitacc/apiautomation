@@ -1,0 +1,90 @@
+{
+  "token": "3c08d723a26f1234",
+  "nbnCorrelationId": "DYNAMIC_CORRELATION_ID",
+  "data": {
+    "transactionId": "DynamicTransaction",
+    "testReferenceId": "WRI900000592958",
+    "status": "Completed",
+    "result": "Passed",
+    "startDateTime": "DynamicStartTime",
+    "endDateTime": "DynamicEndTime",
+    "estimatedResponseTime": "240",
+    "metadata": {
+      "nbnCorrelationId": "DYNAMIC_CORRELATION_ID",
+      "requestorId": "WID000000000058",
+      "serviceId": "DynamicServiceId",
+      "tokenId": "3c08d723a26f1234"
+    },
+    "diagnosticDetails": [
+      {
+        "type": "DPU Status",
+        "status": "Completed",
+        "result": "Passed",
+        "estimatedResponseTime": "60",
+        "serviceProfile": "TD12_U1_Mbps_TC4_P, D0.30_U0.30_Mbps_TC1_C",
+        "dpuLogicalId": "DPU000032695678",
+        "dpuOperationalState": "UP",
+        "dpuAdminState": "UNLOCKED",
+        "dpuPosition": "SWOLT0001351.R1.S1.LT1.PON5.ONT32",
+        "dpuRanged": "ranged",
+        "dpuSerialNumber": "ALCLF82F3AD8",
+        "dpuSerialNumberNetwork": "ALCLF82F3AD8",
+        "dpuActiveSoftwareVersion": "3FE54613AOCK29 (R05.03.01u VEIP SIP)",
+        "dpuPassiveSoftwareVersion": "3FE54613AOCJ49 (R05.02.01p VEIP SIP)",
+        "dpuPlannedSoftware": "ALCLF82F3AD8",
+        "dpuEstimatedDistance": "5.1 Km",
+        "dpuOlmRx1490": "-15.190 dBm",
+        "dpuOlmTx1490": "1.600 dBm",
+        "dpuOlmRx1310": "-18.000 dBm",
+        "dpuOlmTx1310": "4.000 dBm",
+        "dpuDownloadStatus": "downloadInProgress",
+        "inniSVlan": "2009",
+        "inniCVlan": "31",
+        "enniCVlan": "30",
+        "enniSVlan": "2627",
+        "lagVlanId": "101",
+        "dpuLastChangeDate": "2017-04-04T01:35:54Z",
+        "dpuDownloadedSoftware": "AUTO",
+        "dpuCurrentReportingState": "Loss of Signal(LOS),Loss of GEM Channel Delineation (LCD),Inactive (INACT)",
+        "dpuPorts": [
+          {
+            "operationalState": "UP",
+            "adminState": "UNLOCKED",
+            "vlanMacAddress": [
+              "E0:1D:3B:DD:43:8E"
+            ],
+            "serviceId": "AVC000000000001",
+            "accessSeekerId": "ASI000000000001"
+          },
+          {
+            "operationalState": "UP",
+            "adminState": "UNLOCKED",
+            "vlanMacAddress": [
+              "E1:1D:3B:DD:43:8E"
+            ],
+            "serviceId": "AVC000026379668",
+            "accessSeekerId": "ASI000000000026"
+          },
+          {
+            "operationalState": "UP",
+            "adminState": "UNLOCKED",
+            "vlanMacAddress": [
+              "E3:1D:3B:DD:43:8E"
+            ],
+            "serviceId": "",
+            "accessSeekerId": ""
+          },
+          {
+            "operationalState": "UP",
+            "adminState": "UNLOCKED",
+            "vlanMacAddress": [
+              "E4:1D:3B:DD:43:8E"
+            ],
+            "serviceId": "",
+            "accessSeekerId": ""
+          }
+        ]
+      }
+    ]
+  }
+}

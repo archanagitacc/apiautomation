@@ -1,0 +1,24 @@
+{
+  "token": "3c08d723a26f1234",
+  "nbnCorrelationId": "DYNAMIC_CORRELATION_ID",
+  "data": {
+    "transactionId": "DynamicTransaction",
+    "testReferenceId": "WRI900000592958",
+    "status": "InProgress",
+    "startDateTime": "DynamicStartTime",
+    "estimatedResponseTime": "240",
+    "metadata": {
+      "nbnCorrelationId": "DYNAMIC_CORRELATION_ID",
+      "requestorId": "WID000000000058",
+      "serviceId": "DynamicServiceId",
+      "tokenId": "3c08d723a26f1234"
+    },
+    "diagnosticDetails": [
+      {
+        "type": "DPU Status",
+        "status": "InProgress",
+        "estimatedResponseTime": "60"
+      }
+    ]
+  }
+}

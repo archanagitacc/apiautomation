@@ -1,0 +1,54 @@
+{
+  "token": "3c08d723a26f1234",
+  "nbnCorrelationId": "DYNAMIC_CORRELATION_ID",
+  "data": {
+    "transactionId": "DynamicTransaction",
+    "testReferenceId": "WRI900000664825",
+    "status": "Completed",
+    "result": "Failed",
+    "startDateTime": "DynamicStartTime",
+    "endDateTime": "DynamicEndTime",
+    "metadata": {
+      "nbnCorrelationId": "DYNAMIC_CORRELATION_ID",
+      "requestorId": "WID000000000058",
+      "serviceId": "DynamicServiceId",
+      "tokenId": "3c08d723a26f1234"
+    },
+    "diagnosticDetails": [
+      {
+        "type": "DPU Port Status",
+        "status": "Completed",
+        "result": "Failed",
+        "avcId": "AVC000028726705",
+        "testId": "TRI000000214407",
+        "accessSeekerId": "ASI000000221967",
+        "serviceProfile": "D12_U1_Mbps_TC4_P,D0.15_U0.15_Mbps_TC1_C",
+        "dpuPortNumber": "1",
+        "ethernetCardAdminState": "UNLOCKED",
+        "ethernetCardOperationalState": "UP",
+        "ethernetPortAdminState": "UNLOCKED",
+        "ethernetPortOperationalState": "UP",
+        "ethernetPortLinkState": "Carrier detected",
+        "ethernetPortCurrentState": "No Defect",
+        "ethernetPortConfigStatus": "10 Base-T (full duplex)",
+        "ethernetPortLastChangeDate": "2017-09-07T01:34:48Z",
+        "ethernetPortAutoDetectConfig": "Auto Sense",
+        "vlanAssociationAdminState": "UNLOCKED",
+        "vlanAssociationOperationalState": "UP",
+        "vlanAssociationQosPolicy": "REGENERATION_PROFILE",
+        "vlanAssociationNetworkVlan": "S3314.C1007(AVC-2nd-vlanport Cross Connect)#04B404",
+        "bridgePortVlanId": "522",
+        "exceptions": [
+          {
+            "code": "300",
+            "message": "DPU Port Status Test fails"
+          },
+          {
+            "code": "000",
+            "message": "Some other error message"
+          }
+        ]
+      }
+    ]
+  }
+}

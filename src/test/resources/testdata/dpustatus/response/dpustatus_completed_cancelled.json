@@ -1,0 +1,29 @@
+{
+  "token": "3c08d723a26f1234",
+  "nbnCorrelationId": "DYNAMIC_CORRELATION_ID",
+  "data": {
+    "transactionId": "DynamicTransaction",
+    "testReferenceId": "WRI900000664825",
+    "status": "Cancelled",
+    "startDateTime": "DynamicStartTime",
+    "endDateTime": "DynamicEndTime",
+    "metadata": {
+      "nbnCorrelationId": "DYNAMIC_CORRELATION_ID",
+      "requestorId": "WID000000000058",
+      "serviceId": "DynamicServiceId",
+      "tokenId": "3c08d723a26f1234"
+    },
+    "diagnosticDetails": [
+      {
+        "type": "DPU Status",
+        "status": "Cancelled",
+        "exceptions": [
+          {
+            "code": "000",
+            "message": "An unexpected problem has occurred when running the DPU Status. Please retry again later before raising a Trouble Ticket."
+          }
+        ]
+      }
+    ]
+  }
+}

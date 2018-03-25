@@ -1,0 +1,33 @@
+{  
+   "transactionId":"aeb8a1007f60271d",
+   "msgType":"No Sync",
+   "estimatedResponseTime":"15",
+   "status":"Accepted",
+   "testReferenceId":"WRI900000695587",
+   "metadata":{  
+      "correlationId":"59803ac0-7a27-494c-957c-317ae3dcca88",
+      "requestorId":"ASI000000220777",
+      "serviceId":"AVC400000018148",
+      "incidentId":"INC000005801632",
+      "requestId":"000000000058027",
+      "role":"NBN",
+      "channel":"Remedy",
+      "faultType":"No Sync",
+      "messagePriority":"High",
+      "consumerPriority":"Medium"
+   },
+   "diagnosticDetails":[  
+      {  
+         "type":"LSD",
+         "status":"Accepted"
+      },
+      {  
+         "type":"Loopback",
+         "status":"Accepted"
+      },
+      {  
+         "type":"MLT",
+         "status":"Accepted"
+      }
+   ]
+}

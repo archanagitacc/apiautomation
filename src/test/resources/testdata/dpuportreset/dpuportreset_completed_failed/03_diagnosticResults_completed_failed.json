@@ -1,0 +1,31 @@
+{
+  "token": "1234567890",
+  "nbnCorrelationId": "DYNAMIC_CORRELATION_ID",
+  "data": {
+    "transactionId": "DynamicTransaction",
+    "testReferenceId": "WRI900000664825",
+    "status": "Completed",
+    "result": "Failed",
+    "startDateTime": "DynamicStartTime",
+    "endDateTime": "DynamicEndTime",
+    "metadata": {
+      "nbnCorrelationId": "DYNAMIC_CORRELATION_ID",
+      "requestorId": "WID000000000058",
+      "serviceId": "DynamicServiceId",
+    "tokenId": "1234567890"
+    },
+    "diagnosticDetails": [
+      {
+        "type": "DPU Port Reset",
+        "status": "Completed",
+        "result": "Failed",
+        "exceptions": [
+          {
+            "code": "250",
+            "message": "Please Contact NBN Co for support"
+          }
+        ]
+      }
+    ]
+  }
+}

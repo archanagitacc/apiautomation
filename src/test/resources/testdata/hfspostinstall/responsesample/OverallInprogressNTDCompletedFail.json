@@ -1,0 +1,115 @@
+{  
+   "correlationId":"DYNAMIC_CORRELATION_ID",
+   "testReferenceId":"WRI000000000000",
+   "startDateTime":"DynamicStartTime",
+   "status":"InProgress",
+   "msgType":"Post Install Test",
+   "metadata":{  
+      "role":"Delivery Partner",
+      "channel":"Atlas",
+      "serviceId":"AVC000000000000",
+      "messagePriority":"High",
+      "consumerPriority":"Medium",
+      "requestorId":"ASI000000000000"
+   },
+   "diagnosticDetails":[  
+      {  
+         "type":"NTD Status",
+         "status":"Completed",
+         "result":"Failed",
+         "macAddress":"AA:AA:AA:AA:AA:AA",
+         "cmStatus":"offline",
+         "ntdUpTime":"13320528",
+         "version":"ARRIS DOCSIS 3.0 / PacketCable 1.5 Touchstone Media Gateway <<HW_REV: 5; VENDOR: Arris Interactive, L.L.C.; BOOTR: 2.3.1.1; SW_REV: 7.12.118; MODEL: MG5225G>>",
+         "totalFlaps":"10",
+         "channelDetails":[  
+            {  
+               "channelName":"cable-downstream 14/0",
+               "channelType":"Downstream",
+               "cnr":"39",
+               "rx":"-8.4"
+            },
+            {  
+               "channelName":"cable-downstream 14/1",
+               "channelType":"Downstream",
+               "cnr":"39",
+               "rx":"-8.7"
+            },
+            {  
+               "channelName":"cable-downstream 14/2",
+               "channelType":"Downstream",
+               "cnr":"38.5",
+               "rx":"-8.8"
+            },
+            {  
+               "channelName":"cable-downstream 14/3",
+               "channelType":"Downstream",
+               "cnr":"38.6",
+               "rx":"-9.1"
+            },
+            {  
+               "channelName":"cable-downstream 14/4",
+               "channelType":"Downstream",
+               "cnr":"40.4",
+               "rx":"-7.1"
+            },
+            {  
+               "channelName":"cable-downstream 14/5",
+               "channelType":"Downstream",
+               "cnr":"39.4",
+               "rx":"-7.8"
+            },
+            {  
+               "channelName":"cable-downstream 14/6",
+               "channelType":"Downstream",
+               "cnr":"39",
+               "rx":"-8.9"
+            },
+            {  
+               "channelName":"cable-downstream 14/7",
+               "channelType":"Downstream",
+               "cnr":"37.5",
+               "rx":"-10.4"
+            },
+            {  
+               "channelName":"cable-upstream  1/0.0",
+               "channelType":"Upstream",
+               "ccnr":"29.9",
+               "cnr":"29.9",
+               "tx":"37.9",
+               "rx":"-1"
+            },
+            {  
+               "channelName":"cable-upstream  1/1.0",
+               "channelType":"Upstream",
+               "ccnr":"34.1",
+               "cnr":"33.2",
+               "tx":"40.2",
+               "rx":"-0.8"
+            },
+            {  
+               "channelName":"cable-upstream  1/2.0",
+               "channelType":"Upstream",
+               "ccnr":"34.5",
+               "cnr":"34.2",
+               "tx":"38.9",
+               "rx":"-1.2"
+            },
+            {  
+               "channelName":"cable-upstream  1/3.0",
+               "channelType":"Upstream",
+               "ccnr":"40.1",
+               "cnr":"40.1",
+               "tx":"44.4",
+               "rx":"-0.8"
+            }
+         ],
+         "exceptions":[  
+            {  
+               "code":"112",
+               "message":"NTD Status Failed due to NTD offline.."
+            }
+         ]
+      }
+   ]
+}

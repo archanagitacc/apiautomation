@@ -1,0 +1,33 @@
+{
+  "token": "3c08d723a26f1234",
+  "nbnCorrelationId": "DYNAMIC_CORRELATION_ID",
+  "data": {
+    "transactionId": "DynamicTransaction",
+    "testReferenceId": "WRI900000592958",
+    "status": "Completed",
+    "result": "Failed",
+    "startDateTime": "DynamicStartTime",
+    "endDateTime": "DynamicEndTime",
+    "estimatedResponseTime": "240",
+    "metadata": {
+      "nbnCorrelationId": "DYNAMIC_CORRELATION_ID",
+      "requestorId": "WID000000000058",
+      "serviceId": "DynamicServiceId",
+      "tokenId": "3c08d723a26f1234"
+    },
+    "diagnosticDetails": [
+      {
+        "type": "DPU Status",
+        "status": "Completed",
+        "result": "Failed",
+        "estimatedResponseTime": "60",
+        "exceptions": [
+          {
+            "code": "000000",
+            "message": "A technical error has occurred during the processing of the request."
+          }
+        ]
+      }
+    ]
+  }
+}

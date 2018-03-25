@@ -1,0 +1,24 @@
+{
+  "token": "3c08d723a26f1234",
+  "nbnCorrelationId": "DYNAMIC_CORRELATION_ID",
+  "data": {
+    "transactionId": "DynamicTransaction",
+    "estimatedResponseTime": "60",
+    "testReferenceId": "WRI900000664825",
+    "status": "InProgress",
+    "startDateTime": "DynamicStartTime",
+    "metadata": {
+      "nbnCorrelationId": "DYNAMIC_CORRELATION_ID",
+      "requestorId": "WID000000000058",
+      "serviceId": "DynamicServiceId",
+      "tokenId": "3c08d723a26f1234"
+    },
+    "diagnosticDetails": [
+      {
+        "type": "Loopback",
+        "status": "InProgress",
+        "estimatedResponseTime": "60"
+      }
+    ]
+  }
+}

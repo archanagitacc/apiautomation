@@ -1,0 +1,12 @@
+{  
+ "correlationId":"DynamicCorrelation",
+  "msgType":"Post Install Test",
+  "data" : {
+                
+                "requestorId":"ASI000000220777",
+                "channel":"Atlas",
+                "messagePriority":"High",
+                "consumerPriority":"Medium",
+                "serviceId":"AVC400000018147"
+  }
+}

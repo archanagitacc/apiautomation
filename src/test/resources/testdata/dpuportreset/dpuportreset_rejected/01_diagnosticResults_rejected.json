@@ -1,0 +1,32 @@
+{
+  "token": "1234567890",
+  "nbnCorrelationId": "DYNAMIC_CORRELATION_ID",
+  "data": {
+    "transactionId": "DynamicTransaction",
+    "status": "Rejected",
+    "startDateTime": "DynamicStartTime",
+    "endDateTime": "DynamicEndTime",
+    "metadata": {
+      "nbnCorrelationId": "DYNAMIC_CORRELATION_ID",
+      "requestorId": "WID000000000058",
+      "serviceId": "DynamicServiceId",
+      "tokenId": "1234567890"
+    },
+    "diagnosticDetails": [
+      {
+        "type": "DPU Port Reset",
+        "status": "Rejected",
+        "exceptions": [
+          {
+            "code": "001",
+            "message": "The mandatory field or fields are not provided: requestorID"
+          },
+          {
+            "code": "002",
+            "message": "The mandatory field or fields are not provided: nbnCorrelationId"
+          }
+        ]
+      }
+    ]
+  }
+}

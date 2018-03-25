@@ -1,0 +1,42 @@
+{
+  "token": "3c08d723a26f1234",
+  "nbnCorrelationId": "DYNAMIC_CORRELATION_ID",
+  "data": {
+    "transactionId": "DynamicTransaction",
+    "testReferenceId": "WRI900000664825",
+    "status": "Completed",
+    "result": "Passed",
+    "startDateTime": "DynamicStartTime",
+    "endDateTime": "DynamicEndTime",
+    "metadata": {
+      "nbnCorrelationId": "DYNAMIC_CORRELATION_ID",
+      "requestorId": "WID000000000058",
+      "serviceId": "DynamicServiceId",
+      "tokenId": "3c08d723a26f1234"
+    },
+    "diagnosticDetails": [
+      {
+        "type": "NPT",
+        "status": "Completed",
+        "result": "Passed",
+        "trafficClass": "TC-1",
+        "testDuration": "300",
+        "frameDelay": "25",
+        "frameDelayIndicator": "Red",
+        "frameLoss": "25",
+        "frameLossIndicator": "Red",
+        "jitter": "5",
+        "jitterIndicator": "Red",
+        "startTime": "2017-08-12T20:25:03.725Z",
+        "stopTime": "2017-08-12T20:26:03.725Z",
+        "timestamp": "2017-08-12T20:26:03.725Z",
+        "exceptions": [
+          {
+            "code": "401",
+            "message": "Performance test failed for this service"
+          }
+        ]
+      }
+    ]
+  }
+}

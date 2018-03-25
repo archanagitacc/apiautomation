@@ -1,0 +1,23 @@
+{
+    "transactionId": "1d2e3c4a5f6b7a8d",
+    "status": "InProgress",
+    "testReferenceId": "WRI900000592958",
+    "metadata": {
+        "correlationId": "0e8cedd0-ad98-11e6-bf2e-47644ada7c0f",
+        "faultType": "No Sync",
+        "role": "NBN",
+        "channel": "Remedy",
+        "serviceId": "AVC999900010002",
+        "requestId": "000000000058027",
+        "incidentId": "INC000005801632",
+        "messagePriority": "High",
+        "consumerPriority": "Low",
+        "requestorId": "ASI999900010000"
+ },
+    "diagnosticDetails": [
+        {
+            "type": "LSD",
+            "status": "InProgress"
+ }
+    ]
+}

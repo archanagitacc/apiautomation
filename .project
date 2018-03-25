@@ -1,0 +1,116 @@
+{
+       "incidentIdentifier": "INC100106942106",
+       "incidentData": {
+           "prodCatTier2": "Ethernet Bitstream Access Service",
+           "summary": "-*AVC000022341312*-",
+           "prodCatTier1": "NCAS-FTTB",
+           "prodCatTier3": "PRI-Standard SLA",
+           "incidentIdentifier": "INC100106942106",
+           "accessSeekerId": "ASI000000220997",
+           "serviceRegion": "NSW-Urban",
+           "repeatIncResolutionGoal": "0",
+           "incidentType": "User Service Restoration",
+           "industryStatus": "InProgress",
+                                   "industrySubStatus": "",
+           "opCatTier1": "Customer Incident",
+           "priority": "Low",
+           "opCatTier2": "No data connection",
+           "serviceRestorationSLA": "PRI-Standard SLA",
+           "priorityAssist": "False",
+           "accessSeekerRefId": "TEST",
+           "reportedDate": "1518068570",
+           "segment": "Residential",
+                                   "assignedGroup": "CSC-HFC",
+                                   "assignee": "karthika GCC",
+           "landType": "AGRICULTURAL",
+           "category": "No data connection",
+           "status": "",
+           "targetCommitmentDate": "1510385698",
+                                   "endUserEngagementType": "Appointment"
+       },
+                  
+                   "sfAppointments": [
+    {
+      "appointmentData": {
+        "priorityAssist": "No",
+        "sunsetExpiryDate": "1520831966",
+        "appointmentStatus": "RESERVED",
+        "appointmentEndDate": "1520831966",
+        "engagementType": "",
+        "appointmentSlot": "Standard Slot",
+        "appointmentSlaType": "Standard",
+        "technology": "Copper",
+        "appointmentIdentifier": "APT102100016010",
+       "appointmentNotes": "This is additional information",
+        "appointmentStartDate": "1520824766",
+        "demandType": "Standard Install"
+      }
+    }
+  ],
+                   "sfWrqs": [{
+                                                "wrqIdentifier": "WRQ102100016010",
+                                                "wrqData": {
+                                                                "wrqStatus": "CREATED",
+                                                                "wrqStatusReason": "",
+                                                                "wrqType": "",
+                                                                "plannedCompletionDate": "",
+                                                                "closureSummary": "",
+                                                                "closureSymptom": null,
+                                                                "closureCause": null,
+                                                                "closureResolution": null,
+                                                                "businessUnit": null,
+                                                                "towTemplateVersion": null,
+                                                                "additionalInformation": null,
+                                                                "accessSeekerId": null,
+                                                                "repeatIncidentPriority": null,
+                                                                "segment": null,
+                                                                "nbnLocationId": null,
+                                                                "appointmentId": "",
+                                                                "jobRequirement": null,
+                                                                "centralSplitterPresent": null,
+                                                                "faultType": null,
+                                                                "faultDetails": null,
+                                                                "serviceId": null,
+                                                                "serviceType": null,
+                                                                "copperPairServiceClass": null,
+                                                                "downstreamSpeed": null,
+                                                                "upstreamSpeed": null,
+                                                                "minReqL1BitrateUS": null,
+                                                                "lineStatus": null,
+                                                                "potsInterconnect": null
+                                                }
+                                }],
+   
+                   "sfWorklogs": [{
+                                                                                                "worklogData": {
+                                                                                                                                                                "worklogType": "General Information",
+                                                                                                                                                                "worklogAddedBy": "projectone",
+                                                                                                                                                                "worklogDetails": "Automation process initiated and Incident has been assigned to Auto Queue.",
+                                                                                                                                                                "worklogLastModifiedDate": "1513830850",
+                                                                                                                                                                "worklogDate": "1518068570",
+                                                                                                                                                                "worklogIdentifier": "WLG000049476501",
+                                                                                                                                                                "worklogInternalExternal": "Internal"
+                                                                                                }
+                                }],
+       "sfAssociations": [
+           {
+               "associationIdentifier": "HAS000012158565",
+               "associationData": {
+                   "associationObjectType": "Configuration Item",
+                   "associationType": "Related to",
+                   "associatedIdentifier": "PRI003001935267"
+               },
+               "deleted": false
+           },
+           {
+               "associationIdentifier": "HAS000012158566",
+               "associationData": {
+                   "associationObjectType": "Configuration Item",
+                   "associationType": "Related to",
+                   "associatedIdentifier": "AVC000022341312"
+               },
+               "deleted": false
+           }
+       ],
+       "deleted": false
+}

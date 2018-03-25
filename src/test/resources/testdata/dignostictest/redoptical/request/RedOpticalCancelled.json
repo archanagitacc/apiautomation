@@ -1,0 +1,15 @@
+{  
+   "msgType":"Red Optical",
+   "version":"v1",
+   "data":{  
+      "correlationId":"DynamicCorrelation",
+      "tokenId":"e1c5334b597c123b",
+      "requestorId":"ASI000000220777",
+      "serviceId":"AVC100000018008",
+      "role":"NBN",
+      "faultType":"Red Optical",
+      "channel":"Remedy",
+      "messagePriority":"High",
+      "consumerPriority":"Medium"
+   }
+}

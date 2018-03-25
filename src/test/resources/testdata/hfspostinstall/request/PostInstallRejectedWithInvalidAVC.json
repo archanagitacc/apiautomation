@@ -1,0 +1,13 @@
+{  
+ "correlationId":"DynamicCorrelation",
+  "msgType":"Post Install Test",
+  "data" : {
+                
+                "requestorId":"ASI000000220777",
+                "role":"Delivery Partner",
+                "channel":"Atlas",
+                "messagePriority":"High",
+                "consumerPriority":"Medium",
+                "serviceId":"AVC40000001814"
+  }
+}

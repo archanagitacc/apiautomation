@@ -1,0 +1,42 @@
+{
+  "token": "3c08d723a26f1234",
+  "nbnCorrelationId": "DYNAMIC_CORRELATION_ID",
+  "data": {
+    "transactionId": "DynamicTransaction",
+    "testReferenceId": "WRI900000664825",
+    "status": "Completed",
+    "result": "Passed",
+    "startDateTime": "DynamicStartTime",
+    "endDateTime": "DynamicEndTime",
+    "metadata": {
+      "nbnCorrelationId": "DYNAMIC_CORRELATION_ID",
+      "requestorId": "WID000000000058",
+      "serviceId": "DynamicServiceId",
+      "tokenId": "3c08d723a26f1234"
+    },
+    "diagnosticDetails": [
+      {
+        "type": "Loopback",
+        "status": "Completed",
+        "result": "Passed",
+        "packetSize": "1000",
+        "packetsSent": "5",
+        "packetsReceived": "5",
+        "packetsLost": "0",
+        "timestamp": "2017-06-28T05:19:49Z",
+        "trafficClass": "TC-1",
+        "lossPercentage": "0",
+        "badMsdu": "0",
+        "outOfOrder": "0",
+        "accessSeekerId": "ASI000000000057",
+        "accessSeekerName": "VHA (Vodafone)",
+        "fromNodeId": "192.168.6.69",
+        "mepTargetMacAddress": "00:19:C7:85:60:47",
+        "mepMacAddress": "N/A",
+        "maintenanceDomainId": "2",
+        "maintenanceAssociationId": "4730000",
+        "rackShelfSlotNumberPonPortNumberNtdNumber": "1/1/LT1/5/32"
+      }
+    ]
+  }
+}
